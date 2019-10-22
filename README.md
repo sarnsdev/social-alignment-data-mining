@@ -4,3 +4,4 @@ Implementing the paper "Adversarial Learning for Weakly-Supervised Social Networ
 # Authors
 - Stephen Arnsparger
 - Vinika Gupta
+- Sujata Sinha (szs0210@auburn.edu)
