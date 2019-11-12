@@ -1,0 +1,5 @@
+Two graph datsets for experiment evaluation: Collaboration network of Arxiv (small scale) and Collaboration network of DBLP (large scale)
+
+In these two graphs, a node/vertex represents an author and an edge denotes an coauthorship between two authors. Thus, each row corresponds to an edge with a value of 1. During the experiment evaluation, these two datasets could be used to model data matrices of non-graph data or adjacency matrices of graph data. For example, the first row of "3466	937" in CA-GrQc.txt could be used to represent the entry between row 3466 and column 937 in the matrix with the value of 1.
+
+Notice that CA-GrQc is a directed graph. i.e., its matrix representation is a symmetric matrix. But the undirected graph com-dblp.ungraph has an asymmetric matrix representation. You should first transform it into a symmetric matrix since most of data mining algorithms only handle symmetric data matrix.

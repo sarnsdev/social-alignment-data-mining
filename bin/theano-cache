@@ -1,0 +1,10 @@
+#!/home/aurmc/Stephen/data-mining/social-alignment-data-mining/bin/python3
+# EASY-INSTALL-ENTRY-SCRIPT: 'Theano==1.0.4','console_scripts','theano-cache'
+__requires__ = 'Theano==1.0.4'
+import sys
+from pkg_resources import load_entry_point
+
+if __name__ == '__main__':
+    sys.exit(
+        load_entry_point('Theano==1.0.4', 'console_scripts', 'theano-cache')()
+    )

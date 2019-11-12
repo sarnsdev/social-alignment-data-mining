@@ -1,0 +1,15 @@
+Metadata-Version: 1.1
+Name: scikit-neuralnetwork
+Version: 0.7
+Summary: Deep neural networks without the learning cliff! A wrapper library compatible with scikit-learn.
+Home-page: https://github.com/aigamedev/scikit-neuralnetwork
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: BSD 3-clause license
+Description: UNKNOWN
+Keywords: deep learning,neural networks
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
